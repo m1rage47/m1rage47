@@ -15,11 +15,13 @@
 
 
 <h3>🚀 What I Do</h3>
+
 * **API Development:** Building high-performance, asynchronous REST APIs using **FastAPI**.
 * **Telegram Bots:** Developing advanced, feature-rich bots (using frameworks like **aiogram** or **python-telegram-bot**).
 * **Backend Architecture:** Designing databases, optimizing queries, and ensuring smooth deployment.
 
 ### 🛠️ Tech Stack & Tools
+
 * **Languages:** Python
 * **Frameworks:** FastAPI, Aiogram, telebot, BeatifulSoup, Django
 * **Databases:** PostgreSQL, Sqlite, MongoDB
